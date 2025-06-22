@@ -47,3 +47,17 @@ a:hover { text-decoration: underline; }
 ul { margin-left: 1.2rem; }
 
 section { margin: 2rem 0; }
+
+.tagline {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  margin-top: 0.25rem;
+}
+
+.experience > li {
+  margin-bottom: 2rem;
+}
+.experience ul {
+  margin-left: 1.2rem;
+  list-style: disc;
+}
